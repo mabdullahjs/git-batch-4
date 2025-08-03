@@ -1,0 +1,6 @@
+1- git download krlia.
+2- github pa account banalia
+3- crediental manager sa past connection delete kiya
+4- git bash ma jaka 2 command likhi "git config --global user.name "your_github_username", git config --global user.email "your_email@example.com".
+5- github pa jaka aik repo (folder) banayaa
+6- usi folder ko clone krlia
